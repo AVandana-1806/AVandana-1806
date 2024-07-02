@@ -41,6 +41,12 @@ Currently, I am working as a Cloud Automation Engineer, leveraging my skills in 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<h2> <img align="center" src="https://github.com/AVandana-1806/Avandana-1806/blob/main/icons/stats.gif"  width="29"/> GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avandana-1806&layout=compact&theme=radical" alt="Adarsh's Top Languages" />
+</div>
+
 ## 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-vandana-34703788/)
