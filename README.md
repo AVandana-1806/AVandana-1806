@@ -25,12 +25,12 @@ Currently, I am working as a Cloud Automation Engineer, leveraging my skills in 
   <summary>Click to see a random joke</summary>
   <div align="center">
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
   </div>
 </details>
 
-## 🛠 Tech Stack
+<h4> <img align="center" src="https://github.com/AVandana-1806/Avandana-1806/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,8 +40,6 @@ Currently, I am working as a Cloud Automation Engineer, leveraging my skills in 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
 
 ## 📫 Get In Touch
 
