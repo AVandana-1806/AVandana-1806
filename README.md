@@ -30,7 +30,7 @@ Currently, I am working as a Cloud Automation Engineer, leveraging my skills in 
   </div>
 </details>
 
-<h4> <img align="center" src="https://github.com/AVandana-1806/Avandana-1806/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2>
+<h2> <img align="center" src="https://github.com/AVandana-1806/Avandana-1806/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
